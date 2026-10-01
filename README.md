@@ -7,7 +7,6 @@
 </a>
 
 <p>
-  <a href="https://iamhassansohail.com"><img src="https://img.shields.io/badge/Website-iamhassansohail.com-34d399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:hassan@greywind.tech"><img src="https://img.shields.io/badge/Email-hassan%40greywind.tech-020617?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
